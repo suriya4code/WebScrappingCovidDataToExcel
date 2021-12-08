@@ -9,7 +9,7 @@ pip install pandas
 
 <div align="center">
 <h3>Input html page: </h3>
-<img src="https://github.com/suriya4code/WebScrappingCovidDataToExcel/blob/master/Images/InputHtml.png" alt="InputHtml" />
+<img src="https://github.com/suriya4code/WebScrappingCovidDataToExcel/blob/master/Images/InputHtml.png" alt="InputHtml" width="200" />
 </div>
 <div align="center">
 <h3>Final Output </h3>
